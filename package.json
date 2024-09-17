@@ -1,0 +1,19 @@
+{
+  "name": "flipkartautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+     
+  }
+}
